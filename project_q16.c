@@ -6,7 +6,7 @@
 //If it is not able to complete its execution within the assigned time quantum, then automated timer generates an interrupt. 
 //The scheduler will select the next process in the queue and dispatcher dispatches the process to processor for execution. 
 //Compute the total time for which processes were in the queue waiting for the processor. 
-//Take the input for CPU burst, arrival time and time quantum from the user. 
+//Take the input for CPU burst, arrival time and time quantum from the user. okay.
  
 
 
